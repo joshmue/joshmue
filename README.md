@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Joshua!
+- 👀 I’m mostly dealing with cloud native stuff working [@gonicus](https://github.com/gonicus).
