@@ -1,2 +1,5 @@
 - 👋 Hi, I’m Joshua!
 - 👀 I’m mostly dealing with cloud native stuff working [@gonicus](https://github.com/gonicus).
+- ⛳️ Non-Cloud-Native personal projects done for fun:
+  - [foldgame](https://github.com/joshmue/foldgame)
+  - [dayplanner](https://github.com/joshmue/dayplanner)
